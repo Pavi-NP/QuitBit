@@ -71,6 +71,9 @@ QuitBit/
 4. **Personalized Response**: Generates supportive, context-aware responses
 5. **Progress Tracking**: Updates real-time statistics on quitting benefits
 
+   <img width="945" height="683" alt="Screenshot 2025-10-29 at 12 17 55 am" src="https://github.com/user-attachments/assets/5a32c397-845a-4047-8074-72af6c14302c" />
+
+
 ## 🎮 Usage Examples
 
 - **Share feelings**: "I'm having strong cravings today"
