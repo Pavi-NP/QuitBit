@@ -1,1 +1,26 @@
-templates/.env
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+*.sqlite3
+.DS_Store
+*.log
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+# Add these for secret files
+*.env
+.env.local
+.env.production
+secrets.txt
+config.json
