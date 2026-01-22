@@ -6,6 +6,11 @@ An AI-powered chatbot designed to support individuals on their journey to quit s
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3.3-lightgrey)
 
+## QuitBit chatbot system architecture diagram
+<img width="1536" height="1024" alt="ChatGPT Image Jan 22, 2026 at 11_06_10 PM" src="https://github.com/user-attachments/assets/5c7cae66-291b-4a98-a6d3-682ba75ec56f" />
+
+QuitBit combines a Flask web backend with a pre-trained ML sentiment model and rule-based context detection to deliver real-time, emotionally supportive responses for users on their smoke-free journey.
+
 ## ✨ Features
 
 - **🤖 AI-Powered Support** - Uses Hugging Face sentiment analysis to understand user emotions
